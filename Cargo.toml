@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-system-tools"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS system-tools component"
+
+[lib]
+name = "system_tools"
+path = "src/lib.rs"
