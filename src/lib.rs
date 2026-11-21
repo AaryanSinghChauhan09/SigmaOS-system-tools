@@ -5,6 +5,9 @@
 //! Replaces the placeholder stub.
 
 use std::collections::BTreeMap;
+/// System utilities collection module.
+pub mod sigmasystemtools;
+
 use std::fmt;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
