@@ -154,3 +154,6 @@ mod tests {
 
 /// Module extracted from the SigmaOS-system monolith.
 pub mod system_manager;
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod mint_tools;
